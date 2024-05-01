@@ -1,5 +1,5 @@
 /*
- * SettingsView.swift
+ * AccountView.swift
  *
  * Author: Bouchra Mohamed Lemine
  * Date: 03/04/2024
