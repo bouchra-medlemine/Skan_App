@@ -1,1 +1,1 @@
-# The CNN model code and data are available at: ![image]([https://github.com/bouchra-medlemine/Skan_App/assets/98985598/fd0c903b-b4b1-4d43-afea-903a230cce2e](https://unibrightonac-my.sharepoint.com/:f:/g/personal/b_mohamedlemine1_uni_brighton_ac_uk/EqzTFdMKU61Eu4Z0wwIuw74B7CZ3wdHkdHOge9Zs2DktTQ?e=t9ydlC))
+# The CNN model code and data are available at: https://unibrightonac-my.sharepoint.com/:f:/g/personal/b_mohamedlemine1_uni_brighton_ac_uk/EqzTFdMKU61Eu4Z0wwIuw74B7CZ3wdHkdHOge9Zs2DktTQ?e=t9ydlC
